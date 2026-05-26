@@ -1,0 +1,6 @@
+{
+  "name": "GP Studio Pretoria",
+  "description": "High-Impact Academic & Business Document Services with an AI-powered instant layout builder and WhatsApp ordering system for CVs, business plans, and essay structures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
